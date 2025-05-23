@@ -82,7 +82,8 @@ int main() {
 }
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/63bd576c-cf69-4e27-bcc1-4476505b6646)
+![image](https://github.com/user-attachments/assets/6d87d7f5-a8f1-49c4-844c-bdd875159a7f)
+
 
 ## RESULT
 Thus the program to generate the Fibonacci series for the value 6 has been executed successfully.
@@ -191,10 +192,10 @@ int main() {
     for (int i = 0; i < n; i++) {
         if (arr[i] % 2 == 0) {
             arr[i] = 'E';
-            printf("%c",arr[i]);
+            printf("%c ",arr[i]);
         }
         else{
-            printf("%d",arr[i]);
+            printf("%d ",arr[i]);
         }
     }
     printf("\n");
@@ -202,7 +203,8 @@ int main() {
 }
 ```
 ## Output:
- ![image](https://github.com/user-attachments/assets/99009ae4-c504-48ff-949a-41872948cd04)
+ ![Uploading image.png…]()
+
 
 
 
